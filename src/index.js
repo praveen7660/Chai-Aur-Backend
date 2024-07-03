@@ -10,7 +10,7 @@ dotenv.config({
 
 
 
-connectDB();
+connectDB(); 
 
 
 /*
@@ -37,4 +37,5 @@ const app = express();
 })()
 
 */
+
 
